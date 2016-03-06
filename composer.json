@@ -1,0 +1,27 @@
+{
+  "name": "kilbot/woocommerce-print-suite",
+  "description": "",
+  "homepage": "",
+  "type": "wordpress-plugin",
+  "keywords": [
+    "wordpress",
+    "woocommerce",
+    "software",
+    "ecommerce",
+    "license"
+  ],
+  "require": {
+    "composer/installers": "^1.0"
+  },
+  "license": "GPLv2",
+  "authors": [
+    {
+      "name": "kilbot",
+      "homepage": "https://github.com/kilbot"
+    }
+  ],
+  "require-dev": {
+    "10up/wp_mock": "dev-master",
+    "php": ">=5.5.0"
+  }
+}
